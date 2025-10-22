@@ -1,9 +1,5 @@
 ![Muhammad Mathori](img/github-header-banner.png)
 
-# 💫 About Me:
-
-## Hi there Im Muhammad Mathori Abdul Jalil 👋
-
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmathori__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-mathori-abdul-jalil-551597282/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mathorimuhammad449@gmail.com)
